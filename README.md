@@ -1,4 +1,4 @@
- Bar Tilin 🍻🍺
+# Bar Tilin 🍻🍺
 Bienvenidos a Bar Tilin, una aplicación para el pedido de sus bebidas y cocteles desde cualquier dispositivo movil 📲 .
 
 Instrucciones: 
